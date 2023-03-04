@@ -1,0 +1,38 @@
+Email:- abhinaysalure@gmail.com
+Phone:- +91 8482829696
+Location:- Pune, India
+Linkedin:- linkedin.com/in/abhinaysalure82
+GitHUb Repositeries:- Github.com/abhinay7176
+Blogs:- 	medium.com/@abhinaysalure/about
+
+
+Profile:- 
+Option 01:- A professional with 1 year and 9 months of Expertise in Automation testing and a Self-motivated DevOps Engineer with Hands-on project experience with DevOps Tools.
+
+Option 02:- Experienced and  professional DevOps Engineer with over Two years of valuable experience in Automation testing to ensure company success, and a Self-motivated DevOps Engineer with Hands-on project experience with DevOps Tools.
+
+
+Work Experience : Test Engineer 
+Created and implemented test plans.
+Directly interacted with client to understand business requirements to measure overall coverage of testing application and created strategic initiaticves to design, code, and test solutions.
+Worked as a productive and positive team member to design, code, test, report, and debug operations.
+Automated 400+ test scripts part of Unit, Functional and non-functional testing using Micro-focus UFT Tool. 
+Build a PDF Comparison tool to differentiate pdf reports within few minutes.
+
+
+Skills:-
+SCM:-Git & GitHub
+Cloud Services:- Amazon AWS 
+CI/CD Pipelines:- Jenkins
+Infrastructure as a Code:- Terraform, Pulumi
+Infrastructure management Tool:- ANsible
+Orchestration management Tool :- Kubernetes, Docker-Swarm
+Containerisation:- Docker & Docker-compose
+OS:- Linux, Windows & IOS
+DataBases :- MySQL, PLSql.
+Programming languages:- Python, Java, HCL, Groocy, Yaml.
+ 
+
+Awards and achievements:- 
+This Award received for Exceptional performance in Automation testing, as automated highest test scripts in a project it helps to achieve target before deadline.
+
